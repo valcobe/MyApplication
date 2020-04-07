@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ma Demande</string>
+    <string name="hello">Bienvenue!</string>
+    <string name="bye">Au revoir!</string>
+    <string name="button">Cliquez ici!</string>
+    <string name="toast">Stade Français</string>
+</resources>

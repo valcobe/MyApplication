@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meva Aplicació</string>
+    <string name="hello">Benvinguts</string>
+    <string name="bye">Adeu!</string>
+    <string name="button">Feu click!</string>
+    <string name="toast">Estadi Catalá</string>
+</resources>

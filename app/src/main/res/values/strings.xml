@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Welcome!</string>
+    <string name="bye">See you son!</string>
+    <string name="button">Click me!</string>
+    <string name="toast">English Stadium</string>
+</resources>

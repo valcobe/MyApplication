@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine Bewerbung</string>
+    <string name="hello">Willkommen bei!</string>
+    <string name="bye">Auf Wiedersehen!</string>
+    <string name="button">Klicken Sie hier!</string>
+    <string name="toast">Deutsches Stadion</string>
+</resources>
